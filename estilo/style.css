@@ -81,7 +81,7 @@ main {
     border-bottom-right-radius: 10px;
 }
 main img{
-    
+    width: 100%;
 }
 main img.pequena{
     max-width: 350px;
